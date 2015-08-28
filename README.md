@@ -25,7 +25,7 @@ B02617 | Weiter
 B02682 | Schmecken
 B02764 | Danach-NY
 
-In the folder `other-FHV-data`, there are 10 files of raw data on pickups from 10 for-hire vehicle (FHV) companies. The trip information varies by company, but can include day of trip, time of trip, pick-up location, driver's for-hire license number, and vehicle's for-hire license number.
+In the folder `other-FHV-data`, there are 10 files of raw data on pickups from 10 for-hire vehicle (FHV) companies. The trip information varies by company, but can include day of trip, time of trip, pickup location, driver's for-hire license number, and vehicle's for-hire license number.
 
 The file `Aggregate_FHV_Data.xlsx`, which contains aggregate analysis on taxi and FHV trips, came directly from the TLC.
 
