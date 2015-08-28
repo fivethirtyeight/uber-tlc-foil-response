@@ -1,6 +1,6 @@
 ### Uber TLC FOIL Response
 
-This directory contains data on over 4.5 million Uber pickups in New York City from April to September 2014. Trip-level data on 10 other for-hire vehicle (FHV) companies, as well as aggregate analysis, is also included. All the files are as they were received on July 27, 2015. 
+This directory contains data on over 4.5 million Uber pickups in New York City from April to September 2014. Trip-level data on 10 other for-hire vehicle (FHV) companies, as well as aggregate analysis, is also included. All the files are as they were received on August 3, 2015. 
 
 FiveThirtyEight obtained the data from the [NYC Taxi & Limousine Commission (TLC)](http://www.nyc.gov/html/tlc/html/home/home.shtml) by submitting a Freedom of Information Law request. The TLC's correspondence with FiveThirtyEight is included in the file `TLC_letter.pdf`. TLC records requests can be made [here](http://www.nyc.gov/html/tlc/html/passenger/records.shtml).
 
