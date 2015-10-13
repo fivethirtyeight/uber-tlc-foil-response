@@ -19,7 +19,7 @@ Also in the folder is the file `uber-raw-data-jan-june-2015.csv` The file has th
 
 Header | Definition
 ---|---------
-`Dispatching_base_num` | The [TLC base company](http://www.nyc.gov/html/tlc/html/industry/base_and_business.shtml) code of the base that dispactched the Uber
+`Dispatching_base_num` | The [TLC base company](http://www.nyc.gov/html/tlc/html/industry/base_and_business.shtml) code of the base that dispatched the Uber
 `Pickup_date` | The date and time of the Uber pickup
 `Affiliated_base_num` | The [TLC base company](http://www.nyc.gov/html/tlc/html/industry/base_and_business.shtml) code affiliated with the Uber pickup
 `locationID` | The pickup location ID affiliated with the Uber pickup
