@@ -15,7 +15,7 @@ Header | Definition
 `Lon` | The longitude of the Uber pickup
 `Base` | The [TLC base company](http://www.nyc.gov/html/tlc/html/industry/base_and_business.shtml) code affiliated with the Uber pickup
 
-Also in the folder is the file `uber-raw-data-jan-june-2015.csv` The file has the following columns:
+Also in the folder is the file `uber-raw-data-janjune-15.csv.zip` The unzipped file has the following columns:
 
 Header | Definition
 ---|---------
